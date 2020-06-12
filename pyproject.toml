@@ -11,6 +11,11 @@ authors = ["adriennefranke <18449966+adriennefranke@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+click = "^7.0"
+requests = "^2.23.0"
+
+[tool.poetry.scripts]
+af-hypermodern-python = "af_hypermodern_python.console:main"
 
 [tool.poetry.dev-dependencies]
 
