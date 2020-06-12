@@ -5,8 +5,8 @@ description = "The hypermodern Python project"
 license = "MIT"
 readme = "README.md"
 homepage = "https://github.com/adriennefranke/af-hypermodern-python"
-respository = "https://github.com/adriennefranke/af-hypermodern-python"
-keywords = ["hypermodern]
+repository = "https://github.com/adriennefranke/af-hypermodern-python"
+keywords = ["hypermodern"]
 authors = ["adriennefranke <18449966+adriennefranke@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
