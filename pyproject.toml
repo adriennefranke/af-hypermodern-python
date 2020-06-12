@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "af-hypermodern-python"
+version = "0.1.0"
+description = "The hypermodern Python project"
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/adriennefranke/af-hypermodern-python"
+respository = "https://github.com/adriennefranke/af-hypermodern-python"
+keywords = ["hypermodern]
+authors = ["adriennefranke <18449966+adriennefranke@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
